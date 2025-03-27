@@ -28,9 +28,8 @@ Movie-Rating-Prediction/
 This project predicts movie ratings based on user and movie features using machine learning techniques. The dataset contains user ratings, movie details, and additional metadata for training predictive models.
 
 ## Dataset
-The dataset used in this project is sourced from [MovieLens Dataset](https://grouplens.org/datasets/movielens/) and contains:
-- **movies.csv** – Movie titles, genres, and IDs.
-- **ratings.csv** – User ratings for movies with timestamps.
+The dataset used in this project is sourced from (https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies) and contains:
+
 
 ## Project Workflow
 1. **Data Exploration** – Analyze and visualize movie ratings, genres, and trends.
